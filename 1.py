@@ -1,4 +1,5 @@
-#I have made some sort of a logical error in this and am currently trying to work it out. So it's under progress... Feel free to check it out and may be find the key part I'm missing out on, if you want to :)
+#I have made some sort of a logical error in this and am currently trying to work it out. So it's under progress... But feel free to check it out and may be find the key part
+#I'm missing out on, if you want to :)
 
 z = int(input("Enter a number: "))
 

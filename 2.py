@@ -1,4 +1,4 @@
-z = int(input("Enter a number: "))
+z = input("Enter a number: ")
 
 def iter(n):
     if (n == 0):

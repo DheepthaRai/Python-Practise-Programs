@@ -8,7 +8,7 @@ def isSquare(n):
 
 z = int(input("Enter number: "))
 
-if z == int(z) and z>0:
+if z>0:
     if isSquare(z):
         if m.sqrt(z) == int(m.sqrt(z)):
             print("True. The given number %s is the square of %s" %((z),int((m.sqrt(z)))))

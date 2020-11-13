@@ -9,7 +9,7 @@ def iter(n):
         n = n // 2
     return True
 
-if z>=0:
+if z == int(z) and z>0:
     if iter(z):
         print(iter(z))
     else:

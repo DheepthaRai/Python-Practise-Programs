@@ -8,7 +8,7 @@ def is4sPower(n):
 
 z = int(input("Enter number: "))
 
-if z>0:
+if z == int(z) and z>0:
     if is4sPower(z):
         print("True")
     else:

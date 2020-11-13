@@ -7,7 +7,6 @@ def iter(n):
         if (n%2 != 0):
             return False
         n = n // 2
-
     return True
 
 if z>=0:
